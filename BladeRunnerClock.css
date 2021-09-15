@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    background-image: url("/Users/ultimateorganism/Desktop/MyJavaApps/images/WebDevStuff.png");
+}
+#clockText{
+    position: relative;
+    transform: translate(-15px,225px);
+    font-family: Digital-7 Mono;
+    font-style: italic;
+    text-align: center;
+    font-size: 55px;
+    color: rgba(252, 247, 183, 1);
+}
+.clockGraphic{
+    margin: auto;
+    background-image: url("/Users/ultimateorganism/Desktop/MyJavaApps/images/BladeRunner2049Graphic.jpeg");
+    background-size: cover;
+    height: 800px;
+    width: 800px;
+}
